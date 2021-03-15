@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   sprintf: ^6.0.0
-  args: ^2.0.0
+  args: ^1.5.2
   analyzer: ^1.1.0
   gettext_parser: ^0.2.0
   flutter:
